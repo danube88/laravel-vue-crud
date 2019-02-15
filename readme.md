@@ -10,5 +10,6 @@
 1. `git clone`
 2. `update the .env file along with database connection`
 3. `composer install && composer update`
-4. `php artisan migrate`
-5. `npm install`
+4. `php artisan key:generate`
+5. `php artisan migrate`
+6. `npm install`
